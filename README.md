@@ -1,7 +1,7 @@
 - 👋 Hi, I’m asma
 - 👀 I’m interested in books,games,learning new languages and developing.
 - 🌱 I’m currently learning c++
-- 💞️ I’m looking to collaborate on simple ame developing projects to learn practically.
+- 💞️ I’m looking to collaborate on simple game developing projects to learn practically.
 - 📫 How to reach me @asmasherbaf@gmail.com
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: i really care about details so i can easily get distracted.
